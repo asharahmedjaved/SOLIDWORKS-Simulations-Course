@@ -1,1 +1,1 @@
-# SOLIDWORKS-Simulations-Course
+# SOLIDWORKS SImulations Course (In progress)
