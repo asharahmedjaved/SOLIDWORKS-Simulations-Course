@@ -1,0 +1,16 @@
+[StartTime]
+Bottle Opener-Static 1.MFC=1s
+[SolverState]
+Bottle Opener-Static 1.MFC=2
+[MainFrame]
+Bottle Opener-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Bottle Opener-Static 1.MFC=No
+[SolverType]
+Bottle Opener-Static 1.MFC=Linear Analysis
+[StudyType]
+Bottle Opener-Static 1.MFC=0
+[StudyName]
+Bottle Opener-Static 1.MFC=Static 1
+[Solver]
+Bottle Opener-Static 1.MFC=Sparse
