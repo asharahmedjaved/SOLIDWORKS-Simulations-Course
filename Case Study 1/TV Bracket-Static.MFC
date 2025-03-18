@@ -1,0 +1,16 @@
+[StartTime]
+TV Bracket-Static.MFC=1s
+[SolverState]
+TV Bracket-Static.MFC=2
+[MainFrame]
+TV Bracket-Static.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+TV Bracket-Static.MFC=No
+[SolverType]
+TV Bracket-Static.MFC=Linear Analysis
+[StudyType]
+TV Bracket-Static.MFC=0
+[StudyName]
+TV Bracket-Static.MFC=Static
+[Solver]
+TV Bracket-Static.MFC=Sparse
