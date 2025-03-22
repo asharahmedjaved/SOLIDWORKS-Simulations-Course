@@ -1,0 +1,9 @@
+2025-Mar-18 22:14:55
+Computer name:	DESKTOP-COC6VIB
+Number of cores used in calculation:	4
+Configuration name:	Default
+Project name:	Flow Sim
+
+Warnings on last iteration: 
+1. A vortex crosses the pressure opening :
+	Boundary Condition : Environment Pressure 2 ; Inlet flow/outlet flow=0.111969

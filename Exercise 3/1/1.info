@@ -1,0 +1,52 @@
+Model: Ball Valve.SLDPRT
+Project name: Flow Sim
+Config name: Default
+Project path: D:\New Life\Learning SOLIDWORKS\Vertanux1 Simulations\Exercise 3\1\1.xmlconfig
+Status: Finished
+
+Number of cells:
+    Total cells: 3426
+    Fluid cells: 3426
+    Solid cells: 3222
+    Fluid cells containing solids: 1964
+
+
+Geometry preparation finished: 22:14:46
+Geometry preparation time: 00:00:01
+Solver CPU time: 00:00:10
+Iterations: 59
+Travels: 1.47500
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 22:14:55
+CPU time per last iteration: 00:00:00
+CPU time left: 00:00:00
+Iterations per 1 travel: 41
+
+Goals
+    Name | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+
+Project details
+    Default fluids: Water
+    Analysis type: Internal
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: Off
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2022  x64 / 5482 / SOLVER ver. efd_dev.5398_09.07.2021+ruoghness_1
+    CAD version: SOLIDWORKS 2022 SP1.0
+    Computer name: DESKTOP-COC6VIB
+    User name: Ashar Ahmed Javed
+    Operating system: Windows 10 (or higher) (Version 10.0.19045)
+    Processors: Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz
+    Number of cores: 4
+    Memory: 1192 MB / 8073 MB
+
