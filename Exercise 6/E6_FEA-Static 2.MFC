@@ -1,0 +1,16 @@
+[StartTime]
+E6_FEA-Static 2.MFC=9s
+[SolverState]
+E6_FEA-Static 2.MFC=2
+[MainFrame]
+E6_FEA-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+E6_FEA-Static 2.MFC=No
+[SolverType]
+E6_FEA-Static 2.MFC=Linear Analysis
+[StudyType]
+E6_FEA-Static 2.MFC=0
+[StudyName]
+E6_FEA-Static 2.MFC=Static 2
+[Solver]
+E6_FEA-Static 2.MFC=Iterative
